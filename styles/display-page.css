@@ -1,0 +1,56 @@
+body{
+	
+	font-size: 0;
+}
+
+.upper-width{
+
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+	height: 200px;
+}
+.lower-width{
+
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+	height: 300px;
+}
+.top-row{
+
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.bottom-row{
+
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+.innerTop-one{
+
+	background-color: green;
+
+}
+.innerTop-two{
+
+	background-color: blue;
+
+}
+.innerBottom-one{
+
+	background-color: grey;
+
+}
+.innerBottom-two{
+
+	background-color: black;
+
+}
+.innerBottom-three{
+
+	background-color: gold;
+
+}

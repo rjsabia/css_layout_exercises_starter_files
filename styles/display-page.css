@@ -17,14 +17,12 @@ body{
 	font-size: 0;
 	height: 300px;
 }
-.top-row{
 
-	width: 800px;
-	margin-right: auto;
-	margin-left: auto;
+.row div {
+	border: 1px solid black;
 }
-.bottom-row{
 
+.row {
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
@@ -34,6 +32,7 @@ body{
 	background-color: green;
 
 }
+
 .innerTop-two{
 
 	background-color: blue;

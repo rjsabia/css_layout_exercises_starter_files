@@ -10,3 +10,15 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.pic-size{
+	height: 300px;
+	width: 300px;
+}
+.neb-one{
+	float: left;
+	margin: 10px;
+}
+.neb-two{
+	float: right;
+	margin: 10px;
+}
